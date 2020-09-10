@@ -474,7 +474,7 @@ Platforms: iOS
 * **landscape**
 * **portrait**
 
-Platforms: iOS
+Platforms: Android ExoPlayer, iOS
 
 #### headers
 Pass headers to the HTTP client. Can be used for authorization. Headers must be a part of the source object.
